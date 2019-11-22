@@ -44,6 +44,8 @@
 		8CAA1976238855C200761CDE /* CommonNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAA1975238855C200761CDE /* CommonNavigationController.swift */; };
 		8CAA19782388569500761CDE /* AboutRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAA19772388569500761CDE /* AboutRouter.swift */; };
 		8CAA197A2388572400761CDE /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAA19792388572400761CDE /* Router.swift */; };
+		8CAA197C2388624300761CDE /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA197B2388624300761CDE /* README.md */; };
+		8CAA197E2388630D00761CDE /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 8CAA197D2388630D00761CDE /* LICENSE */; };
 		FAA498BDE89DBE60B4B6DC6C /* Pods_MCIV_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A553B5DC2983830BAD8EE935 /* Pods_MCIV_Example.framework */; };
 /* End PBXBuildFile section */
 
@@ -91,6 +93,8 @@
 		8CAA1975238855C200761CDE /* CommonNavigationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonNavigationController.swift; sourceTree = "<group>"; };
 		8CAA19772388569500761CDE /* AboutRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutRouter.swift; sourceTree = "<group>"; };
 		8CAA19792388572400761CDE /* Router.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
+		8CAA197B2388624300761CDE /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8CAA197D2388630D00761CDE /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		A553B5DC2983830BAD8EE935 /* Pods_MCIV_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MCIV_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDD3BE5161CA33D6C31A2D88 /* Pods-MCIV Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MCIV Example.release.xcconfig"; path = "Target Support Files/Pods-MCIV Example/Pods-MCIV Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -119,6 +123,8 @@
 		8CAA18FE2387F69800761CDE = {
 			isa = PBXGroup;
 			children = (
+				8CAA197B2388624300761CDE /* README.md */,
+				8CAA197D2388630D00761CDE /* LICENSE */,
 				8CAA19092387F69800761CDE /* MCIV Example */,
 				8CAA19082387F69800761CDE /* Products */,
 				8CAA19322387F70200761CDE /* Frameworks */,
@@ -414,6 +420,8 @@
 				8CAA19682388384C00761CDE /* BasicCollectionCell.xib in Resources */,
 				8CAA193A2387F94900761CDE /* BasicTableCell.xib in Resources */,
 				8CAA19142387F69800761CDE /* Assets.xcassets in Resources */,
+				8CAA197E2388630D00761CDE /* LICENSE in Resources */,
+				8CAA197C2388624300761CDE /* README.md in Resources */,
 				8CAA19122387F69800761CDE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
