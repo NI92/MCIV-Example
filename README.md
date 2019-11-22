@@ -14,7 +14,7 @@ The 'Interface' folder is what should contain your data sources, networking pres
 
 Look around the code to see how things work. Observe how network calls are made, models parse network response JSON data & how it's presented 
 through a `DataSource` (data sources take care of UITableView & UICollectionView logic - in the project example I'm using the collection view variant).
-The 'Classes' folder essentialy contains all your boilerplate code.
+The 'Classes' folder essentially contains all your boilerplate code.
 
 This architecture has been successfully battle tested on several big projects, such as:
 Express Menu - Azbuka Vkusa
