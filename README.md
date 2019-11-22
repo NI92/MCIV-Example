@@ -1,7 +1,7 @@
 # MCIV
 [![Twitter: @Nick_Ignatenko](https://img.shields.io/badge/contact-@Nick_Ignatenko-blue.svg?style=flat)](https://twitter.com/Nick_Ignatenko)
 [![License](https://img.shields.io/badge/MCIV-blue.svg?style=flat)](https://github.com/NI92/MCIV-Example/blob/master/README.md)
-[![Platform](https://img.shields.io/badge/iOS-blue.svg?style=flat)]()
+[![Platform](https://img.shields.io/badge/iOS-blue.svg?style=flat)](https://developer.apple.com/documentation/swift)
 ----------------
 ## Overview
 A new architecture MCIV (Module-Controller-Interface-View) for iOS that's meant to help with scaling a massive project & keeping your code clean.
