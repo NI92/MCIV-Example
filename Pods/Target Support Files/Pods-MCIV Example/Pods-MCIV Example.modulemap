@@ -1,0 +1,6 @@
+framework module Pods_MCIV_Example {
+  umbrella header "Pods-MCIV Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,7 @@
+// MARK: - Errors
+"unknownError" = "неизвестная ошибка";
+
+// MARK: - Other
+"noImagesAvailable" = "Нет доступных изображений";
+"about" = "описание";
+"aboutDescription" = "данные получены с помощью API Гарвардского художественного музея";

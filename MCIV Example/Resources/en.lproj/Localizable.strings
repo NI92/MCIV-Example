@@ -1,0 +1,7 @@
+// MARK: - Errors
+"unknownError" = "unknown error";
+
+// MARK: - Other
+"noImagesAvailable" = "No images are available";
+"about" = "about";
+"aboutDescription" = "data is retrieved from the Harvard Art Museum API";
