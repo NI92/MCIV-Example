@@ -17,8 +17,10 @@ through a `DataSource` (data sources take care of UITableView & UICollectionView
 The 'Classes' folder essentially contains all your boilerplate code.
 
 This architecture has been successfully battle tested on several big projects, such as:
+
 Express Menu - Azbuka Vkusa
 https://apps.apple.com/ru/app/экспресс-меню-азбука-вкуса/id1057134277
+
 LookMeUp
 https://apps.apple.com/ua/app/lookmeup-new-dating-near/id971083253
 
